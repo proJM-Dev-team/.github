@@ -1,4 +1,4 @@
-<h1> meet the team: </h1>
+<h1> Meet the team: </h1>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=proJM-Coding&show_icons=true&theme=dark" />
   
