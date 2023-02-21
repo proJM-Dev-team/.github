@@ -1,17 +1,1 @@
-<h1> Meet the team: </h1>
-
-<h2> proJM </h2>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=proJM-Coding&show_icons=true&theme=dark" />
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proJM-Coding&layout=compact&theme=dark" />
-
-<h2> Planeflyer11 </h2>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Planeflyer11&show_icons=true&theme=dark" />
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Planeflyer11&layout=compact&theme=dark" />
-
-<h2> SliderOnTheBlack </h2>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SliderOnTheBlack&show_icons=true&theme=dark" />
+![Alt](https://repobeats.axiom.co/api/embed/eb3d3555fc9be81d55ecb6e54b78a57c544cf67a.svg "Repobeats analytics image")
