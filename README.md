@@ -14,6 +14,8 @@ Using:
 This is our default README.md file for our repos. You can get the first image from:
 [https://repobeats.axiom.co/](https://repobeats.axiom.co/)
 
+The contributors image generated here: [contrib.rocks/preview](contrib.rocks/preview)
+
 The other images can be found here: 
 [https://github.com/alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
@@ -28,6 +30,11 @@ Select the owner as "proJM-Dev-team" and repo as new repo name, leave show bot a
 
 Take the image code and replace it up the top.
 
+Change the contributors image by going to [contrib.rocks/preview](contrib.rocks/preview) and putting in the new repo.
+
 Go to [https://github.com/alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) and put images wanted under using section. In our case we are using markdown for the README.md files and github because the file in profile/README.md goes on our profile
 
 Change the Repo info and how to use as wanted.
+
+# Thank you to all our contributors
+![Alt](https://contrib.rocks/image?repo=proJM-Dev-team/.github "Analytics image")
