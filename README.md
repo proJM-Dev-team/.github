@@ -14,7 +14,7 @@ Using:
 This is our default README.md file for our repos. You can get the first image from:
 [https://repobeats.axiom.co/](https://repobeats.axiom.co/)
 
-The contributors image generated here: [contrib.rocks/preview](contrib.rocks/preview)
+The contributors image generated here: [https://contrib.rocks/preview](contrib.rocks/preview)
 
 The other images can be found here: 
 [https://github.com/alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
